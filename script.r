@@ -1,2 +1,4 @@
 library(StatsBombR)
-library(dpylr)
+library(dplyr)
+
+comps <- FreeCompetitions()
